@@ -1,3 +1,7 @@
 .category-container {
     gap: 5rem;
 }
+
+.category {
+    width: 20rem;
+}

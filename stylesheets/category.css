@@ -5,3 +5,7 @@
 .category {
     width: 20rem;
 }
+
+.category:hover {
+    box-shadow: var(--action-color) 0px 19px 38px, var(--action-color) 0px 15px 12px; 
+}

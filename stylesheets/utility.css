@@ -2,10 +2,6 @@
  color: var(--primary-color);
 }
 
-.white-color {
-    color: var(--white-color);
-}
-
 .grey-color {
     color: var(--grey-color);
 }

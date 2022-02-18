@@ -1,20 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 :root  {
-    --background-color: #1a1a1d; /*0f0106*/
-    --white-color: /*#e5e5e2;*/ #ffffff;
-    --primary-color: #950740;
-    --action-color: #C3073F;
-    --grey-color: #4e4e50;
+    --background-color: #171717; 
+    --primary-color: #EDEDED;
+    --action-color: #DA0037;
+    --grey-color: #444444;
     --dark-hover: #6F2232;
-    --success-color: #047b54; /*#07c38b*/
-    --error-color: #ab1c1c; /*#D23807*/
-    /* --hover-color: #950732; */
+    --error-color: #F55C47; 
+    --success-color: #4AA96C; 
+    --primary-color-light: #f8ccd7;
+    --primary-color-dark: #ae002c;
     --font: 'Playfair Display', serif;
 }
 
 body {
     background-color: var(--background-color);
-    color: var(--white-color);
+    color: var(--primary-color);
     font-family: var(--font);
 }

@@ -1,0 +1,71 @@
+.primary-color {
+ color: var(--primary-color);
+}
+
+.grey-color {
+    color: var(--grey-color);
+}
+
+.action-color {
+    color: var(--action-color);
+}
+
+.grey-bg {
+    background-color: var(--grey-color);
+}
+
+.success-bg {
+    background-color: var(--success-color);
+}
+
+.error-bg {
+    background-color: var(--error-color);
+}
+
+.txt-underline {
+    text-decoration: underline;
+}
+
+.txt-cursor {
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-flow: row wrap;
+}
+
+.flex-column {
+    flex-flow: column wrap;
+}
+
+.flex-space-between {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nowrap {
+    flex-wrap: nowrap;
+}
+
+.flex-align-center {
+    align-items: center;
+}
+
+.flex-center {
+    align-items: center;
+    justify-content: center;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.relative {
+    position: relative;
+}

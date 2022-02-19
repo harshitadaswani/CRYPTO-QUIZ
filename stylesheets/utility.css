@@ -69,3 +69,11 @@
 .relative {
     position: relative;
 }
+
+.border-none {
+    border: none;
+}
+
+.outline-transparent {
+    outline: 0.1rem solid transparent;
+}

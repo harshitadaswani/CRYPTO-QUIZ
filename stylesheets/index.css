@@ -1,0 +1,47 @@
+.img-container {
+    box-shadow: var(--grey-color) 0px 19px 38px, var(--grey-color) 0px 15px 12px;
+}
+
+.pagewrap{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+}
+
+.section {
+    flex-grow: 1;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer{
+    align-self: flex-end;
+}
+
+.user-icon {
+    position: absolute;
+    top: 2.3rem;
+    left: 2.3rem;
+}
+
+.input-icon {
+    color: var(--background-color);
+}
+
+.name {
+    width: 16rem;
+}
+
+.btn {
+    color: var(--primary-color);
+    background-color: var(--action-color);
+    padding: var(--s-size);
+    margin: var(--s-size);
+    width: 8rem;
+}
+
+@media only screen and (min-width: 1300px) {
+    .img-container{
+        width: 50%;
+    }
+}

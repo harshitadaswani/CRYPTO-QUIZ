@@ -1,0 +1,6 @@
+.answer {
+    width: 80%;
+}
+.action-hover:hover {
+    background-color: var(--action-color);
+}

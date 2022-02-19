@@ -1,0 +1,4 @@
+.rules-container{
+    border: 0.12em solid var(--action-color);
+    width: max-content;
+}

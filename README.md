@@ -20,7 +20,7 @@ CSS3
 
 ## Demo
 
-https://crypto-quiz.netlify.app/
+https://harshita-crypto-quiz.netlify.app/
 
 ## Authors
 
